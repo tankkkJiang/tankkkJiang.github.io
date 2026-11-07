@@ -4,4 +4,4 @@
 I am a master student at Sun Yat-sen University.
 
 ## Contact
-- Email: yourname@your-university.edu.cn
+- Email: jiangzhlan@mail2.sysu.edu.cn
